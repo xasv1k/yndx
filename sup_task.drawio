@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="1551" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7026571954dc6520-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+        <mxCell id="7026571954dc6520-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="29" y="20" width="1050" height="820" as="geometry" />
         </mxCell>
         <mxCell id="7026571954dc6520-2" value="Яндекс Янг" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
@@ -65,13 +65,22 @@
           <mxGeometry x="9" y="1.25" width="140" height="18.75" as="geometry" />
         </mxCell>
         <mxCell id="tMn4PlatXZS9xMkexgPD-50" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="7026571954dc6520-1">
-          <mxGeometry x="20" y="350" width="1010" height="460" as="geometry" />
+          <mxGeometry x="20" y="350" width="800" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="tMn4PlatXZS9xMkexgPD-52" value="Кастомные поля" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#EA6B66;" vertex="1" parent="7026571954dc6520-1">
-          <mxGeometry x="41" y="370" width="500" height="30" as="geometry" />
+        <mxCell id="tMn4PlatXZS9xMkexgPD-52" value="Кастомные поля" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#EA6B66;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="41" y="360" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tMn4PlatXZS9xMkexgPD-59" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="830" y="290" width="200" height="520" as="geometry" />
         </mxCell>
         <mxCell id="tMn4PlatXZS9xMkexgPD-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="310" width="1010" height="50" as="geometry" />
+          <mxGeometry x="49" y="310" width="801" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tMn4PlatXZS9xMkexgPD-57" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="880" y="323.75" width="159" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tMn4PlatXZS9xMkexgPD-58" value="Инструкция" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="889" y="325" width="140" height="18.75" as="geometry" />
         </mxCell>
         <mxCell id="tMn4PlatXZS9xMkexgPD-49" value="&lt;div align=&quot;left&quot;&gt;MMDM-000000 ЧЗ - Модерация маркировки &quot;Честный Знак&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="70" y="320" width="500" height="30" as="geometry" />
